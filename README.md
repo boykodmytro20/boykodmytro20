@@ -51,4 +51,6 @@
 
 ### 🤝 Let's connect
 
+[@boykodmytro20](https://github.com/boykodmytro20/)
+
 If you're building something in Web3, curious about decentralized tech, or looking to team up on impactful blockchain solutions — let's talk!
